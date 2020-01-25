@@ -1,0 +1,7 @@
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(copachile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black;
